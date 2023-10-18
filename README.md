@@ -72,12 +72,12 @@ I’m currently learning React Native, React, Java Script, HTML, CSS3, SCSS, SAS
 
 ## Connect with me  
 <div align="center">
-<a href="https://linkedin.com/in/wow-web-master" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a> 
 <a href="https://github.com/WOWmasterJulia" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
+<a href="https://linkedin.com/in/wow-web-master" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a> 
 <a href="https://www.behance.net/https://www.behance.net/julialuzina" target="_blank">
 <img src=https://img.shields.io/badge/behance-%23191919.svg?&style=for-the-badge&logo=behance&logoColor=white alt=behance style="margin-bottom: 5px;" />
 </a>  
