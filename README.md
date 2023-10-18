@@ -1,11 +1,13 @@
 ### Hi there 👋
 
-
+https://pin.it/6HFi4iX
+https://pin.it/ILqxuhr
 
 <div align="center">
-<img src="https://media.giphy.com/media/3o7TKKfuvBZu2HFoLm/giphy-downsized-large.gif" align="center" style="width: 100%" />
-</div>  
-  
+<!-- <img src="https://media.giphy.com/media/3o7TKKfuvBZu2HFoLm/giphy-downsized-large.gif" align="center" style="width: 100%" />
+</div>   -->
+ <img src="./images/Heart-It.gif" align="center" style="width: 100%" />
+</div> 
 
 ### <div align="center">I'm Julia, a full-time UI/UX ✨ Designer freelance working remotely and ✨ Full-stack developer in future 🚀</div>  
   
