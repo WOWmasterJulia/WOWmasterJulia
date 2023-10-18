@@ -1,15 +1,13 @@
 ### Hi there 👋
 
 
-**WOWmasterJulia/WOWmasterJulia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 
 <div align="center">
 <img src="https://media.giphy.com/media/3o7TKKfuvBZu2HFoLm/giphy-downsized-large.gif" align="center" style="width: 100%" />
 </div>  
   
 
-### <div align="center">I'm Julia, a full-time UI/UX Designer freelance working remotely and Full-stack developer in future 🚀</div>  
+### <div align="center">I'm Julia, a full-time UI/UX ✨ Designer freelance working remotely and ✨ Full-stack developer in future 🚀</div>  
   
 
 - 🔭 I’m a student-switcher and interested in Programming.  
