@@ -5,7 +5,7 @@
 
 
 <div align="center">
- <img src="./images/Heart-It.gif" align="center" style="width: 100" />
+ <img src="./images/Heart-It.gif" align="center" style="width: 50" />
 </div> 
 
 ### <div align="center">I'm Julia, a full-time UI/UX ✨ Designer freelance working remotely and ✨ Full-stack developer in future 🚀</div>  
