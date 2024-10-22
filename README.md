@@ -18,7 +18,7 @@
 I’m currently learning React Native, React, Java Script, HTML, CSS3, SCSS, SASS and Node.js  
   
 
-- 🌱  I really like creating landing page and small websites for my clients and friends.  
+- 🌱  I really like creating landing page and small websites for my existing and new clients.  
   
 
 <br/>  
