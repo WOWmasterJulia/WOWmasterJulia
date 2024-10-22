@@ -11,11 +11,11 @@
 ### <div align="center">I'm Julia, a full-time UI/UX ✨ Designer freelance working remotely and ✨ Full-stack developer 🚀</div>  
   
 
-- 🔭 I’m a student-switcher and interested in Programming.  
+- 🔭 I was a student-switcher and interested in Programming.  
   
 
 - ⚡ 
-I’m currently learning React Native, React, Java Script, HTML, CSS3, SCSS, SASS and Node.js  
+I was currently learning React Native, React, Java Script, HTML, CSS3, SCSS, SASS and Node.js  
   
 
 - 🌱  I really like creating landing page and small websites for my existing and new clients.  
